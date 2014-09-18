@@ -1,0 +1,19 @@
+{
+  "name": "node-stuff",
+  "version": "0.0.0",
+  "homepage": "https://github.com/clintlosee/node-stuff",
+  "authors": [
+    "Clint Losee <clint.losee@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.24"
+  }
+}
